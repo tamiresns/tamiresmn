@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedora front-end Jr<br>Aluna do [laboratória](https://github.com/laboratoria) <br> Estudante de Matemática na IFSP<br>Possuo habilidades de UX/UI com uso do Figma<br>Professora de lógica de programação para crianças na Byjus Future scholl<br>
+Desenvolvedora front-end Jr<br>Aluna do [laboratória](https://github.com/laboratoria) <br> Estudante de Matemática na IFSP<br>Possuo habilidades de UX/UI com uso do Figma<br>Professora de lógica de programação para crianças na [Byjus Future school](https://www.byjusfutureschool.com/)<br>
 
 
 ## 🌐 Socials:
